@@ -6,7 +6,7 @@
     outline: none;
 }
 #div-main {
-    background:url("../assets/atrofundo.png");
+    background:url("./atrofundo.png");
     width: 100vw;
     height: 100vh;
     background-size: cover;
