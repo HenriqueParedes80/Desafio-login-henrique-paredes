@@ -1,0 +1,80 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+#div-main {
+    background:url("../assets/atrofundo.png");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+img {
+    width: 75%;
+    margin-top: 60px;
+}
+
+input {
+    height: 40px;
+    width: 80%;
+    border-radius: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 90px;
+    background-image: linear-gradient(50deg, #3FDDF2,#ED98A7 );
+    font-weight:bolder;
+    opacity: 0.9;
+    
+    
+}
+
+#input-password {
+    margin-top: 20px;
+}
+
+#button-enter {
+    width: 80%;
+    height: 50px;
+    border-radius: 30px;
+    background: #A5B4C7;
+    color: white;
+    font-size: 15px;
+    font-family: Montserrat;
+    margin-top: 30px;
+    text-transform: uppercase;
+    background-image: linear-gradient(60deg, #A5B4C7, #3E7A75);
+    
+}
+
+#button-facebook {
+    width: 80%;
+    height: 50px;
+    border-radius: 20px;
+    color: white;
+    font-size: 15px;
+    font-family: Montserrat;
+    margin-top: 60px;
+    background:#A5B4C7;
+    font-size: 15px;
+    background-image: linear-gradient(60deg, #28FA62, #A5B4C7);
+    text-transform: uppercase;
+
+}
+#div-botton {
+    display: flex;
+    justify-content: space-between ;  /** dá espaço entre eles **/
+    margin-top: 80px;
+    flex-direction:row;  /** coloca 1 do lado do outro **/
+    color: white;
+    width: 80%;        /** a div está ocupando 80% tela **/
+    font-size: 14px;
+    font-family: Montserrat;
+}
