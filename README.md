@@ -42,7 +42,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./assets/foto henrique.png" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="./assets/foto henrique.png" width="100px;" alt="Foto do Henrique paredes no GitHub"/><br>
         <sub>
         <a href="https://www.linkedin.com/in/henrique-paredes-66171122b/"> <b>Henrique Paredes</b> </a>
          <b> 
